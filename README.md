@@ -1,5 +1,4 @@
 ## 𝛮𝛪𝛭𝑆𝛥𝑅𝛥 - 𝛭𝐷👋
-Best public whatsapp bot:
 ![image alt](https://i.ibb.co/Y7Qhtxvg/639623a5da1ceb01.jpg)
 
 
