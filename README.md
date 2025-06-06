@@ -1,6 +1,6 @@
 ## 𝛮𝛪𝛭𝑆𝛥𝑅𝛥 - 𝛭𝐷👋
 Best public whatsapp bot:
-![image alt](https://github.com/NIMSARA-MD/NIMSARA-MD/blob/5b9ca57ff992e687c13637bc83c9586b41434dcc/Picsart_24-11-08_18-22-45-943.png)
+![image alt](https://i.ibb.co/Y7Qhtxvg/639623a5da1ceb01.jpg)
 
 
 
