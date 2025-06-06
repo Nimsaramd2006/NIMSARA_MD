@@ -64,7 +64,7 @@ Best public whatsapp bot:
    • ❒ script📃
 ## VERSION:  1.0.5 - V
    Last Update :  2025-06-06
-## Give One star For NIMSARA-MD and [Follow Me](https://pair-site-team-inc-pair.onrender.com/pair)
+## Give One star For NIMSARA-MD and [Follow Me](https://github.com/Nimsaramd2006/NIMSARA_MD)
 ## 📦 Installation 
 ## 🚀 How create NIMSARA-MD.
    Deploy steps.
