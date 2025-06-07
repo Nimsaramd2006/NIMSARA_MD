@@ -11,25 +11,31 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply('Please give me url or title')
+if(!q) return reply('❌ Please give me a text or url that I want to search!')
 const search = await yts(q)
 const data = search.videos[0]:
 const url = data.url
 
 let desc = '
-🌟 *SONG DOWNLOADER* 🌟
+🌟 *`NIMSARA-MD SONG DOWNLOADER`* 🌟
 
-title: ${data.title}
-    
-description: ${data.description}
-    
-time: ${data.timestap}
-    
-ago: ${data.ago}
-    
-views: ${data.views}
+◈==================================◈
+╭──────────────────╮
+┃🎵 title: ${data.title}
+┃    
+┃💾 description: ${data.description}
+┃    
+┃⏰ time: ${data.timestamp}
+┃    
+┃⏱️ ago: ${data.ago}
+┃    
+┃📊 views: ${data.views}
+┃
+╰─────────────────╯
 
-𝑀𝐴𝐷𝐸 𝐵𝑌 𝑅𝐴𝐽𝐼𝑁𝐷𝑈 𝑁𝐼𝑀𝑆𝐴𝑅𝐴 💙
+⦁⦂⦁*━┉━┉━┉━┉━━┉━┉━┉━┉━┉━┉━┉━┉━┉┉┉━⦁⦂⦁
+
+㋛ 𝐏𝐎𝐖𝐄𝐑𝐃 𝐁𝐘 𝐍𝐈𝐌𝐒𝐀𝐑𝐀 〽️𝐃
 '
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek}):
 
@@ -60,25 +66,31 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply('Please give me url or title')
+if(!q) return reply('❌ Please give me a text or url that I want to search!')
 const search = await yts(q)
 const data = search.videos[0]:
 const url = data.url
 
 let desc = '
-🌟 *VIDEO DOWNLOADER* 🌟
+🌟 *`NIMSARA-MD VIDEO DOWNLOADER`* 🌟
+    
+◈==================================◈
+╭──────────────────╮
+┃🎵 title: ${data.title}
+┃    
+┃💾 description: ${data.description}
+┃    
+┃⏰ time: ${data.timestap}
+┃    
+┃⏱️ ago: ${data.ago}
+┃    
+┃📊 views: ${data.views}
+┃
+╰─────────────────╯
 
-title: ${data.title}
-    
-description: ${data.description}
-    
-time: ${data.timestap}
-    
-ago: ${data.ago}
-    
-views: ${data.views}
+⦁⦂⦁*━┉━┉━┉━┉━━┉━┉━┉━┉━┉━┉━┉━┉━┉┉┉━⦁⦂⦁
 
-𝑀𝐴𝐷𝐸 𝐵𝑌 𝑅𝐴𝐽𝐼𝑁𝐷𝑈 𝑁𝐼𝑀𝑆𝐴𝑅𝐴 💙
+㋛ 𝐏𝐎𝐖𝐄𝐑𝐃 𝐁𝐘 𝐍𝐈𝐌𝐒𝐀𝐑𝐀 〽️𝐃
 '
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek}):
 
