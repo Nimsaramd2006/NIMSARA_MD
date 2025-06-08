@@ -56,7 +56,7 @@ ${menu.owner}
 【㋛ 𝐏𝐎𝐖𝐄𝐑𝐃 𝐁𝐘 𝐍𝐈𝐌𝐒𝐀𝐑𝐀 〽️𝐃】 
 '
 
-await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image:{url:"https://i.ibb.co/jv9KbzBm/7355.jpg"},caption:madeManu},{quoted:mek})
 
 }catch(e){
 console.log(e)
