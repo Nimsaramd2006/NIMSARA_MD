@@ -1,5 +1,5 @@
 ## 𝛮𝛪𝛭𝑆𝛥𝑅𝛥 - 𝛭𝐷👋
-![image alt](https://i.ibb.co/Y7Qhtxvg/639623a5da1ceb01.jpg)
+![image alt](https://i.ibb.co/5x5pG4X3/SulaMd.jpg)
 
 
 
@@ -67,57 +67,13 @@
    • ❒ script📃
 ## VERSION:  1.0.5 - V
    Last Update :  2025-06-06
-## Give One star For NIMSARA-MD and [Follow Me](https://github.com/Nimsaramd2006/NIMSARA_MD)
-## 📦 Installation 
-## 🚀 How create NIMSARA-MD.
-   Deploy steps.
 
-   1.Fork NIMSARA-MD repository.
-   
-   
-   
-   2.Link with yoour whatsappp using pair code.
-   
-   
-   
-   3.Open settings.js on your forked repository. and put `SESSION_ID` and `MONGODB_URL` and change other settings you need.
-   
-   
-   
-   4.Deploy using your host.
-## `✅Deploy Methods🍀`
-   1.Heroku 
-
-
-
-   2.Replit 
-
-
-
-   3.Render
-
-
-
-   4.Railway 
-
-
-
-   5.Codespace 
-## `💢 GET SESSION ID`
-   [`⚡PAIR CODE`](https://pair-site-team-inc-pair.onrender.com/pair)
-## `Watch Deploy Videos🎥` 
-  [`Watch Videos📽`](https://pair-site-team-inc-pair.onrender.com/pair)
 ## `📞 Owner Contact on Link,`   
   • [`☎️Contact Me on WhatsApp✅ ✆`](https://wa.me/94766351670)
 
   
-  
-  • [`👥Follow my WhatsApp Channel✅ ✆`](https://whatsapp.com/channel/0029VaouoUI6hENzbbDRqi2G)
 
-
-
-
-  • [`👥NIMSARA-MD Public Group✅ ✆`](https://chat.whatsapp.com/KWbyIcfITzIGdeNAecTC3L)
+  • [`👥NIMSARA-MD Public Group✅ ✆`](https://chat.whatsapp.com/JX7gtZYtbHn9C1V1k9ydCK)
 
 
   
